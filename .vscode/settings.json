@@ -1,6 +1,10 @@
 {
     // "editor.fontFamily": "Fira Code",
     "editor.fontFamily": "'Fira Code Retina', 'Noto Mono', monospace, 'Droid Sans Fallback'",
-    "editor.fontLigatures": true,
-    "editor.fontWeight":  "600",
+    "editor.fontLigatures": "'calt', 'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'",
+
+    "editor.fontWeight": "600",
+    "workbench.preferredLightColorTheme": "SynthWave '84",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.preferredDarkColorTheme": "SynthWave '84",
 }
